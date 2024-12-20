@@ -1,5 +1,5 @@
 *REQUIRED* <br/>
--In order for this code to work You first need to install Python which You can download from official website ("https://www.python.org"), it is IMPORTANT to INSTALL/ADD it to PATH ! <br/>
+-In order for this code to work You first need to install Python which You can download from official website (<a href="https://www.python.org" target=_blank>"https://www.python.org</a>), it is IMPORTANT to INSTALL/ADD it to PATH ! <br/>
 -When you installed Python You need to install Python package "yt-dlp" (open Command Prompt and run "pip install yt-dlp") <br/>
 -And finally last thing You need in order for this code to work is FFmpeg which You can download from official website ("https://ffmpeg.org/download.html"), <br/>
   if You don't know how to install I would suggest You to watch this tutorial from "Koolac" ("https://www.youtube.com/watch?v=JR36oH35Fgg") <br/>
