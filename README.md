@@ -1,4 +1,4 @@
-*REQUIRED*
+*REQUIRED* <br/>
 -In order for this code to work You first need to install Python which You can download from official website ("https://www.python.org"), it is IMPORTANT to INSTALL/ADD it to PATH !
 -When you installed Python You need to install Python package "yt-dlp" (open Command Prompt and run "pip install yt-dlp")
 -And finally last thing You need in order for this code to work is FFmpeg which You can download from official website ("https://ffmpeg.org/download.html"),
